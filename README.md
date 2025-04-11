@@ -1,8 +1,9 @@
-# TP4DPBO2025C2
+# TP6DPBO2025C2
 
-Saya Rexy Putra Nur Laksana dengan NIM 2309578 mengerjakan soal TP 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Rexy Putra Nur Laksana dengan NIM 2309578 mengerjakan soal TP 6 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # Desain Program
+---
 Flappy Bird adalah game sederhana di mana pemain mengontrol seekor burung untuk menghindari pipa-pipa yang muncul secara acak. Game ini dibangun menggunakan Java Swing.
 
 ## 🎮 Fitur Utama
